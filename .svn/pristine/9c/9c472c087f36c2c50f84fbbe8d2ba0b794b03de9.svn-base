@@ -1,0 +1,60 @@
+#!/usr/bin/venv python
+#coding=utf8
+import os
+import sys
+# 获取文件地址
+from tools.log_infor import loginmanger
+current_directory = os.path.dirname(os.path.abspath(__file__))
+# print(current_directory)
+root_path = os.path.abspath(os.path.dirname(current_directory) + os.path.sep + ".")
+sys.path.append(root_path)
+case_path=os.path.join(os.getcwd(),"commen\\admin_manger_account")
+print(case_path)
+file_path=os.path.join(os.getcwd(),"report")
+import HTMLTestRunner
+import time
+import unittest
+from  tools.send_report_email_ import sendEmai
+import os
+# 添加为主要文件 即所有事件进行装箱操作
+if __name__=='__main__':
+    '''将运行的日志文件输出到指定文件中进行保存'''
+    op = loginmanger()
+    now = time.strftime("%Y-%m-%d-%H_%M_%S", time.localtime(time.time()))
+    report_abspath = os.path.join(file_path, "result_" + now + ".html")
+    # 批量加载用例
+    discover = unittest.defaultTestLoader.discover(start_dir=case_path, pattern='test_*.py',top_level_dir=None)
+    print(discover)
+    # 将日志写入到指定文件夹中
+    print(op.consel_out())
+    with open(report_abspath, 'wb') as f:
+        runner = HTMLTestRunner.HTMLTestRunner(stream=f, title='郑州高铁接口测试报告', description='用例执行情况')
+        runner.run(discover)
+    # case_path="C:\\DevelopWorkspace\\zz_securityPrsystem\\commen"
+    # casepath=os.path.join(case_path,'login')
+    # # 批量加载用例
+    # discover_case=unittest.defaultTestLoader.discover(casepath,pattern='test_*.py',top_level_dir=None)
+    # suit=unittest.TestSuite()
+    # suit.addTest(discover_case)
+    # 单一加载测试用例
+    # test_suit = unittest.TestSuite()
+    # test_suit.addTest(eidtor_infor_device_test('test_eidtor_infor_with_devicess'))
+    # runtest = unittest.TextTestRunner()
+    # 创建生成结果文件格式 且写入文件
+    # now_time = time.strftime('%Y-%m-%d %H_%M_%S')
+    #
+    # filepath = 'C:\\..\\zz_securityPrsystem\\report'
+    # filename = filepath + "\\" + now_time + 'report.html'
+    # fb = open(filename, 'wb')
+    # runner = HTMLTestRunner.HTMLTestRunner(stream=fb, title='软件测试HTML报告', description='测试报告')
+    # # runner.run(test_suit)
+    # runner.run(test_suit)
+    # fb.close()
+    # 将结果通过邮件发送到指定人
+    send_emai = sendEmai()
+    send_emai.Sendemail(newfile=report_abspath)
+
+# 1.文件的相对路径的处理 涉及到文件路径的地方 用函数表达
+# 2.处理批量加载测试用例
+# 3.jmter的集成
+# 4.脚本的调优

@@ -1,0 +1,67 @@
+{
+  "uid" : "86fbc1fd583a2eed",
+  "name" : "test_add_user_devices",
+  "fullName" : "commen.device_manger.test_add_user_devices#test_add_user_devices",
+  "historyId" : "3d0e560ebcda75b8346bc55dc2f2a9de",
+  "time" : {
+    "start" : 1630492374485,
+    "stop" : 1630492374566,
+    "duration" : 81
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "7c5ff484893797f5",
+      "name" : "stdout",
+      "source" : "7c5ff484893797f5.txt",
+      "type" : "text/plain",
+      "size" : 147
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "commen.device_manger"
+  }, {
+    "name" : "suite",
+    "value" : "test_add_user_devices"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-DHV6DED"
+  }, {
+    "name" : "thread",
+    "value" : "60364-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "commen.device_manger.test_add_user_devices"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "86fbc1fd583a2eed.json",
+  "parameterValues" : [ ]
+}

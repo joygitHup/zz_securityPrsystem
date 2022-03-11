@@ -1,0 +1,53 @@
+{
+  "uid" : "d2e3a761153852",
+  "name" : "test_looking_work_detalis",
+  "fullName" : "commen.work_bill_details.test_looking_work_detalis#test_looking_work_detalis",
+  "historyId" : "0109326875ef5d86ab88bd4545ae1a7a",
+  "time" : {
+    "start" : 1630492376337,
+    "stop" : 1630492376387,
+    "duration" : 50
+  },
+  "description" : "查看作业票详情",
+  "descriptionHtml" : "<p>查看作业票详情</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "commen.work_bill_details"
+  }, {
+    "name" : "suite",
+    "value" : "test_looking_work_detalis"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-DHV6DED"
+  }, {
+    "name" : "thread",
+    "value" : "60364-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "commen.work_bill_details.test_looking_work_detalis"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d2e3a761153852.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,252 @@
+{
+  "uid" : "7a7c1874730b5906",
+  "name" : "test_work_account_by_editor",
+  "fullName" : "commen.workair_account_manger.test_woraccount_eidtorinfor#test_work_account_by_editor",
+  "historyId" : "703817d1a496942409c7348fd6f851d9",
+  "time" : {
+    "start" : 1630553667437,
+    "stop" : 1630553667578,
+    "duration" : 141
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "commen.workair_account_manger"
+  }, {
+    "name" : "suite",
+    "value" : "test_woraccount_eidtorinfor"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-DHV6DED"
+  }, {
+    "name" : "thread",
+    "value" : "114112-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "commen.workair_account_manger.test_woraccount_eidtorinfor"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "2a5fe3f87073c02e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1630492376646,
+        "stop" : 1630492376706,
+        "duration" : 60
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 38,
+        "unknown" : 0,
+        "total" : 38
+      },
+      "items" : [ {
+        "uid" : "f1584aef207937a7",
+        "reportUrl" : "http://192.168.1.169:8080/jenkins/job/auto_jenkins/420/allure/#testresult/f1584aef207937a7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1630553667437,
+          "stop" : 1630553667578,
+          "duration" : 141
+        }
+      }, {
+        "uid" : "15d4defbd3e30942",
+        "reportUrl" : "http://192.168.1.169:8080/jenkins/job/auto_jenkins/419/allure/#testresult/15d4defbd3e30942",
+        "status" : "passed",
+        "time" : {
+          "start" : 1630553667437,
+          "stop" : 1630553667578,
+          "duration" : 141
+        }
+      }, {
+        "uid" : "5e0c0bf7500f32b5",
+        "reportUrl" : "http://192.168.1.169:8080/jenkins/job/auto_jenkins/418/allure/#testresult/5e0c0bf7500f32b5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1630553667437,
+          "stop" : 1630553667578,
+          "duration" : 141
+        }
+      }, {
+        "uid" : "d58ff7e3e1fcf2a7",
+        "reportUrl" : "http://192.168.1.169:8080/jenkins/job/auto_jenkins/417/allure/#testresult/d58ff7e3e1fcf2a7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1630553667437,
+          "stop" : 1630553667578,
+          "duration" : 141
+        }
+      }, {
+        "uid" : "34afd733979216e3",
+        "reportUrl" : "http://192.168.1.169:8080/jenkins/job/auto_jenkins/416/allure/#testresult/34afd733979216e3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1630553667437,
+          "stop" : 1630553667578,
+          "duration" : 141
+        }
+      }, {
+        "uid" : "832256f5d3d483c3",
+        "reportUrl" : "http://192.168.1.169:8080/jenkins/job/auto_jenkins/415/allure/#testresult/832256f5d3d483c3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1630553667437,
+          "stop" : 1630553667578,
+          "duration" : 141
+        }
+      }, {
+        "uid" : "2d7dc7cf5f1dd094",
+        "reportUrl" : "http://192.168.1.169:8080/jenkins/job/auto_jenkins/414/allure/#testresult/2d7dc7cf5f1dd094",
+        "status" : "passed",
+        "time" : {
+          "start" : 1630553667437,
+          "stop" : 1630553667578,
+          "duration" : 141
+        }
+      }, {
+        "uid" : "9be7fef50399e919",
+        "reportUrl" : "http://192.168.1.169:8080/jenkins/job/auto_jenkins/413/allure/#testresult/9be7fef50399e919",
+        "status" : "passed",
+        "time" : {
+          "start" : 1630553667437,
+          "stop" : 1630553667578,
+          "duration" : 141
+        }
+      }, {
+        "uid" : "d74895b4738071ff",
+        "reportUrl" : "http://192.168.1.169:8080/jenkins/job/auto_jenkins/412/allure/#testresult/d74895b4738071ff",
+        "status" : "passed",
+        "time" : {
+          "start" : 1630553667437,
+          "stop" : 1630553667578,
+          "duration" : 141
+        }
+      }, {
+        "uid" : "5e2a526356791da1",
+        "reportUrl" : "http://192.168.1.169:8080/jenkins/job/auto_jenkins/411/allure/#testresult/5e2a526356791da1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1630553667437,
+          "stop" : 1630553667578,
+          "duration" : 141
+        }
+      }, {
+        "uid" : "b9171d02247657ac",
+        "reportUrl" : "http://192.168.1.169:8080/jenkins/job/auto_jenkins/410/allure/#testresult/b9171d02247657ac",
+        "status" : "passed",
+        "time" : {
+          "start" : 1630553667437,
+          "stop" : 1630553667578,
+          "duration" : 141
+        }
+      }, {
+        "uid" : "565759373690923c",
+        "reportUrl" : "http://192.168.1.169:8080/jenkins/job/auto_jenkins/409/allure/#testresult/565759373690923c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1630553667437,
+          "stop" : 1630553667578,
+          "duration" : 141
+        }
+      }, {
+        "uid" : "6fc5d25543defa58",
+        "reportUrl" : "http://192.168.1.169:8080/jenkins/job/auto_jenkins/408/allure/#testresult/6fc5d25543defa58",
+        "status" : "passed",
+        "time" : {
+          "start" : 1630553667437,
+          "stop" : 1630553667578,
+          "duration" : 141
+        }
+      }, {
+        "uid" : "349d3e3ee6efe7c2",
+        "reportUrl" : "http://192.168.1.169:8080/jenkins/job/auto_jenkins/407/allure/#testresult/349d3e3ee6efe7c2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1630553667437,
+          "stop" : 1630553667578,
+          "duration" : 141
+        }
+      }, {
+        "uid" : "43ff9d35df900aa",
+        "reportUrl" : "http://192.168.1.169:8080/jenkins/job/auto_jenkins/406/allure/#testresult/43ff9d35df900aa",
+        "status" : "passed",
+        "time" : {
+          "start" : 1630553667437,
+          "stop" : 1630553667578,
+          "duration" : 141
+        }
+      }, {
+        "uid" : "24406e9ddbb596a",
+        "reportUrl" : "http://192.168.1.169:8080/jenkins/job/auto_jenkins/405/allure/#testresult/24406e9ddbb596a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1630492376646,
+          "stop" : 1630492376706,
+          "duration" : 60
+        }
+      }, {
+        "uid" : "e94d5af7c7fb78c6",
+        "reportUrl" : "http://192.168.1.169:8080/jenkins/job/auto_jenkins/404/allure/#testresult/e94d5af7c7fb78c6",
+        "status" : "passed",
+        "time" : {
+          "start" : 1630492376646,
+          "stop" : 1630492376706,
+          "duration" : 60
+        }
+      }, {
+        "uid" : "1f265076b72b1a72",
+        "reportUrl" : "http://192.168.1.169:8080/jenkins/job/auto_jenkins/403/allure/#testresult/1f265076b72b1a72",
+        "status" : "passed",
+        "time" : {
+          "start" : 1630492376646,
+          "stop" : 1630492376706,
+          "duration" : 60
+        }
+      }, {
+        "uid" : "a2047e3e4b19e6bb",
+        "reportUrl" : "http://192.168.1.169:8080/jenkins/job/auto_jenkins/402/allure/#testresult/a2047e3e4b19e6bb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1630492376646,
+          "stop" : 1630492376706,
+          "duration" : 60
+        }
+      }, {
+        "uid" : "2405149644abb81",
+        "reportUrl" : "http://192.168.1.169:8080/jenkins/job/auto_jenkins/401/allure/#testresult/2405149644abb81",
+        "status" : "passed",
+        "time" : {
+          "start" : 1630492376646,
+          "stop" : 1630492376706,
+          "duration" : 60
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "7a7c1874730b5906.json",
+  "parameterValues" : [ ]
+}

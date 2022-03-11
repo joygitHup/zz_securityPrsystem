@@ -1,0 +1,26 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "simplejson.errors.JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
+      "children" : [ {
+        "name" : "test_addcount_by_admin",
+        "uid" : "b540c8b18d58b13e",
+        "parentUid" : "a24b3a0dba48547cd3c937879ec92ab0",
+        "status" : "broken",
+        "time" : {
+          "start" : 1630553659825,
+          "stop" : 1630553660106,
+          "duration" : 281
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "a24b3a0dba48547cd3c937879ec92ab0"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ]
+}

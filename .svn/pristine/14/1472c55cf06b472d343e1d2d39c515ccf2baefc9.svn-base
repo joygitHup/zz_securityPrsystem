@@ -1,0 +1,15 @@
+{
+  "total" : 35,
+  "items" : [ {
+    "uid" : "633bd5821527c572185cb9432e4c4d6b",
+    "name" : "工区管理",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  } ]
+}

@@ -1,0 +1,13 @@
+[cases]
+#通过配置文件读取指定文件下的测试用例
+admin_manger_account = 1
+device_manger = 1
+login = 1
+pepole_manger = 1
+resouce_type_manger = 1
+tools_infor_manger = 1
+tools_typy_manger = 1
+warehouse_anger = 1
+work_bill_details = 1
+workair_account_manger = 1
+workaire_manger = 1

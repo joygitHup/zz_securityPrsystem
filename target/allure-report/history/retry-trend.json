@@ -1,0 +1,161 @@
+[ {
+  "buildOrder" : 421,
+  "reportUrl" : "http://192.168.1.169:8080/jenkins/job/auto_jenkins/421/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 35,
+    "retry" : 73
+  }
+}, {
+  "buildOrder" : 420,
+  "reportUrl" : "http://192.168.1.169:8080/jenkins/job/auto_jenkins/420/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 35,
+    "retry" : 73
+  }
+}, {
+  "buildOrder" : 419,
+  "reportUrl" : "http://192.168.1.169:8080/jenkins/job/auto_jenkins/419/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 35,
+    "retry" : 73
+  }
+}, {
+  "buildOrder" : 418,
+  "reportUrl" : "http://192.168.1.169:8080/jenkins/job/auto_jenkins/418/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 35,
+    "retry" : 73
+  }
+}, {
+  "buildOrder" : 417,
+  "reportUrl" : "http://192.168.1.169:8080/jenkins/job/auto_jenkins/417/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 35,
+    "retry" : 73
+  }
+}, {
+  "buildOrder" : 416,
+  "reportUrl" : "http://192.168.1.169:8080/jenkins/job/auto_jenkins/416/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 35,
+    "retry" : 73
+  }
+}, {
+  "buildOrder" : 415,
+  "reportUrl" : "http://192.168.1.169:8080/jenkins/job/auto_jenkins/415/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 35,
+    "retry" : 73
+  }
+}, {
+  "buildOrder" : 414,
+  "reportUrl" : "http://192.168.1.169:8080/jenkins/job/auto_jenkins/414/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 35,
+    "retry" : 73
+  }
+}, {
+  "buildOrder" : 413,
+  "reportUrl" : "http://192.168.1.169:8080/jenkins/job/auto_jenkins/413/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 35,
+    "retry" : 73
+  }
+}, {
+  "buildOrder" : 412,
+  "reportUrl" : "http://192.168.1.169:8080/jenkins/job/auto_jenkins/412/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 35,
+    "retry" : 73
+  }
+}, {
+  "buildOrder" : 411,
+  "reportUrl" : "http://192.168.1.169:8080/jenkins/job/auto_jenkins/411/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 35,
+    "retry" : 73
+  }
+}, {
+  "buildOrder" : 410,
+  "reportUrl" : "http://192.168.1.169:8080/jenkins/job/auto_jenkins/410/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 35,
+    "retry" : 73
+  }
+}, {
+  "buildOrder" : 409,
+  "reportUrl" : "http://192.168.1.169:8080/jenkins/job/auto_jenkins/409/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 35,
+    "retry" : 73
+  }
+}, {
+  "buildOrder" : 408,
+  "reportUrl" : "http://192.168.1.169:8080/jenkins/job/auto_jenkins/408/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 35,
+    "retry" : 73
+  }
+}, {
+  "buildOrder" : 407,
+  "reportUrl" : "http://192.168.1.169:8080/jenkins/job/auto_jenkins/407/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 35,
+    "retry" : 73
+  }
+}, {
+  "buildOrder" : 406,
+  "reportUrl" : "http://192.168.1.169:8080/jenkins/job/auto_jenkins/406/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 35,
+    "retry" : 73
+  }
+}, {
+  "buildOrder" : 405,
+  "reportUrl" : "http://192.168.1.169:8080/jenkins/job/auto_jenkins/405/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 32,
+    "retry" : 41
+  }
+}, {
+  "buildOrder" : 404,
+  "reportUrl" : "http://192.168.1.169:8080/jenkins/job/auto_jenkins/404/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 32,
+    "retry" : 41
+  }
+}, {
+  "buildOrder" : 403,
+  "reportUrl" : "http://192.168.1.169:8080/jenkins/job/auto_jenkins/403/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 32,
+    "retry" : 41
+  }
+}, {
+  "buildOrder" : 402,
+  "reportUrl" : "http://192.168.1.169:8080/jenkins/job/auto_jenkins/402/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 32,
+    "retry" : 41
+  }
+} ]

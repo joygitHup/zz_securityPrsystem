@@ -1,0 +1,67 @@
+{
+  "uid" : "c561bca61855ff00",
+  "name" : "test_serecher_by_device",
+  "fullName" : "commen.device_manger.test_serecher_by_device#test_serecher_by_device",
+  "historyId" : "269a1589bd28f2853c6a59b46cb044f7",
+  "time" : {
+    "start" : 1630492374661,
+    "stop" : 1630492375132,
+    "duration" : 471
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "f79e83e1d3fec0a9",
+      "name" : "stdout",
+      "source" : "f79e83e1d3fec0a9.txt",
+      "type" : "text/plain",
+      "size" : 8596
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "commen.device_manger"
+  }, {
+    "name" : "suite",
+    "value" : "test_serecher_by_device"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-DHV6DED"
+  }, {
+    "name" : "thread",
+    "value" : "60364-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "commen.device_manger.test_serecher_by_device"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c561bca61855ff00.json",
+  "parameterValues" : [ ]
+}

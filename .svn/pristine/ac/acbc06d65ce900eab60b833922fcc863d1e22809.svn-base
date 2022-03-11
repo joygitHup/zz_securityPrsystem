@@ -1,0 +1,51 @@
+{
+  "uid" : "22c2348181dc8b95",
+  "name" : "test_work_by_keyword_sercher",
+  "fullName" : "commen.work_bill_details.test_work_detalis_sercher#test_work_by_keyword_sercher",
+  "historyId" : "3d12a53ca0547d5fda9b13f24e0f3de5",
+  "time" : {
+    "start" : 1630492376527,
+    "stop" : 1630492376583,
+    "duration" : 56
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "commen.work_bill_details"
+  }, {
+    "name" : "suite",
+    "value" : "test_work_detalis_sercher"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-DHV6DED"
+  }, {
+    "name" : "thread",
+    "value" : "60364-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "commen.work_bill_details.test_work_detalis_sercher"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "22c2348181dc8b95.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,254 @@
+{
+  "uid" : "743d8228e0528b3a",
+  "name" : "test_looking_work_detalis",
+  "fullName" : "commen.work_bill_details.test_looking_work_detalis#test_looking_work_detalis",
+  "historyId" : "0109326875ef5d86ab88bd4545ae1a7a",
+  "time" : {
+    "start" : 1630553666687,
+    "stop" : 1630553666812,
+    "duration" : 125
+  },
+  "description" : "查看作业票详情",
+  "descriptionHtml" : "<p>查看作业票详情</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "commen.work_bill_details"
+  }, {
+    "name" : "suite",
+    "value" : "test_looking_work_detalis"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-DHV6DED"
+  }, {
+    "name" : "thread",
+    "value" : "114112-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "commen.work_bill_details.test_looking_work_detalis"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "d2e3a761153852",
+      "status" : "passed",
+      "time" : {
+        "start" : 1630492376337,
+        "stop" : 1630492376387,
+        "duration" : 50
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 38,
+        "unknown" : 0,
+        "total" : 38
+      },
+      "items" : [ {
+        "uid" : "7ac20662bda8b957",
+        "reportUrl" : "http://192.168.1.169:8080/jenkins/job/auto_jenkins/420/allure/#testresult/7ac20662bda8b957",
+        "status" : "passed",
+        "time" : {
+          "start" : 1630553666687,
+          "stop" : 1630553666812,
+          "duration" : 125
+        }
+      }, {
+        "uid" : "837685575025877e",
+        "reportUrl" : "http://192.168.1.169:8080/jenkins/job/auto_jenkins/419/allure/#testresult/837685575025877e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1630553666687,
+          "stop" : 1630553666812,
+          "duration" : 125
+        }
+      }, {
+        "uid" : "f77bc8ac3bccaf70",
+        "reportUrl" : "http://192.168.1.169:8080/jenkins/job/auto_jenkins/418/allure/#testresult/f77bc8ac3bccaf70",
+        "status" : "passed",
+        "time" : {
+          "start" : 1630553666687,
+          "stop" : 1630553666812,
+          "duration" : 125
+        }
+      }, {
+        "uid" : "8a1b9f226752ad76",
+        "reportUrl" : "http://192.168.1.169:8080/jenkins/job/auto_jenkins/417/allure/#testresult/8a1b9f226752ad76",
+        "status" : "passed",
+        "time" : {
+          "start" : 1630553666687,
+          "stop" : 1630553666812,
+          "duration" : 125
+        }
+      }, {
+        "uid" : "ba356972e9b2f3ab",
+        "reportUrl" : "http://192.168.1.169:8080/jenkins/job/auto_jenkins/416/allure/#testresult/ba356972e9b2f3ab",
+        "status" : "passed",
+        "time" : {
+          "start" : 1630553666687,
+          "stop" : 1630553666812,
+          "duration" : 125
+        }
+      }, {
+        "uid" : "56a8a75c16eeaca",
+        "reportUrl" : "http://192.168.1.169:8080/jenkins/job/auto_jenkins/415/allure/#testresult/56a8a75c16eeaca",
+        "status" : "passed",
+        "time" : {
+          "start" : 1630553666687,
+          "stop" : 1630553666812,
+          "duration" : 125
+        }
+      }, {
+        "uid" : "3fe48c1388004642",
+        "reportUrl" : "http://192.168.1.169:8080/jenkins/job/auto_jenkins/414/allure/#testresult/3fe48c1388004642",
+        "status" : "passed",
+        "time" : {
+          "start" : 1630553666687,
+          "stop" : 1630553666812,
+          "duration" : 125
+        }
+      }, {
+        "uid" : "97776c97ac70a6fd",
+        "reportUrl" : "http://192.168.1.169:8080/jenkins/job/auto_jenkins/413/allure/#testresult/97776c97ac70a6fd",
+        "status" : "passed",
+        "time" : {
+          "start" : 1630553666687,
+          "stop" : 1630553666812,
+          "duration" : 125
+        }
+      }, {
+        "uid" : "33bf1d71ca284299",
+        "reportUrl" : "http://192.168.1.169:8080/jenkins/job/auto_jenkins/412/allure/#testresult/33bf1d71ca284299",
+        "status" : "passed",
+        "time" : {
+          "start" : 1630553666687,
+          "stop" : 1630553666812,
+          "duration" : 125
+        }
+      }, {
+        "uid" : "d3fb695a65f0df1a",
+        "reportUrl" : "http://192.168.1.169:8080/jenkins/job/auto_jenkins/411/allure/#testresult/d3fb695a65f0df1a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1630553666687,
+          "stop" : 1630553666812,
+          "duration" : 125
+        }
+      }, {
+        "uid" : "4c62baf9f09f5c93",
+        "reportUrl" : "http://192.168.1.169:8080/jenkins/job/auto_jenkins/410/allure/#testresult/4c62baf9f09f5c93",
+        "status" : "passed",
+        "time" : {
+          "start" : 1630553666687,
+          "stop" : 1630553666812,
+          "duration" : 125
+        }
+      }, {
+        "uid" : "470ada5aa03574bc",
+        "reportUrl" : "http://192.168.1.169:8080/jenkins/job/auto_jenkins/409/allure/#testresult/470ada5aa03574bc",
+        "status" : "passed",
+        "time" : {
+          "start" : 1630553666687,
+          "stop" : 1630553666812,
+          "duration" : 125
+        }
+      }, {
+        "uid" : "126f1c87f4ca95b5",
+        "reportUrl" : "http://192.168.1.169:8080/jenkins/job/auto_jenkins/408/allure/#testresult/126f1c87f4ca95b5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1630553666687,
+          "stop" : 1630553666812,
+          "duration" : 125
+        }
+      }, {
+        "uid" : "16c1461c00212501",
+        "reportUrl" : "http://192.168.1.169:8080/jenkins/job/auto_jenkins/407/allure/#testresult/16c1461c00212501",
+        "status" : "passed",
+        "time" : {
+          "start" : 1630553666687,
+          "stop" : 1630553666812,
+          "duration" : 125
+        }
+      }, {
+        "uid" : "5e08eb32a531e406",
+        "reportUrl" : "http://192.168.1.169:8080/jenkins/job/auto_jenkins/406/allure/#testresult/5e08eb32a531e406",
+        "status" : "passed",
+        "time" : {
+          "start" : 1630553666687,
+          "stop" : 1630553666812,
+          "duration" : 125
+        }
+      }, {
+        "uid" : "357fb7ab2ca34ee4",
+        "reportUrl" : "http://192.168.1.169:8080/jenkins/job/auto_jenkins/405/allure/#testresult/357fb7ab2ca34ee4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1630492376337,
+          "stop" : 1630492376387,
+          "duration" : 50
+        }
+      }, {
+        "uid" : "bcb75217a20f5b0",
+        "reportUrl" : "http://192.168.1.169:8080/jenkins/job/auto_jenkins/404/allure/#testresult/bcb75217a20f5b0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1630492376337,
+          "stop" : 1630492376387,
+          "duration" : 50
+        }
+      }, {
+        "uid" : "bbcd6c707ab4fae6",
+        "reportUrl" : "http://192.168.1.169:8080/jenkins/job/auto_jenkins/403/allure/#testresult/bbcd6c707ab4fae6",
+        "status" : "passed",
+        "time" : {
+          "start" : 1630492376337,
+          "stop" : 1630492376387,
+          "duration" : 50
+        }
+      }, {
+        "uid" : "888bd6a1f00bfee0",
+        "reportUrl" : "http://192.168.1.169:8080/jenkins/job/auto_jenkins/402/allure/#testresult/888bd6a1f00bfee0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1630492376337,
+          "stop" : 1630492376387,
+          "duration" : 50
+        }
+      }, {
+        "uid" : "590e4fc3ebbc2f99",
+        "reportUrl" : "http://192.168.1.169:8080/jenkins/job/auto_jenkins/401/allure/#testresult/590e4fc3ebbc2f99",
+        "status" : "passed",
+        "time" : {
+          "start" : 1630492376337,
+          "stop" : 1630492376387,
+          "duration" : 50
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "743d8228e0528b3a.json",
+  "parameterValues" : [ ]
+}

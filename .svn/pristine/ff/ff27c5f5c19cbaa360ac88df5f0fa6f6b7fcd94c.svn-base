@@ -1,0 +1,53 @@
+{
+  "uid" : "efee5c3ef996b170",
+  "name" : "test_work_details_recover",
+  "fullName" : "commen.work_bill_details.test_work_details_recover#test_work_details_recover",
+  "historyId" : "edd978cea519c9dc090efae69b0981fe",
+  "time" : {
+    "start" : 1630492376390,
+    "stop" : 1630492376471,
+    "duration" : 81
+  },
+  "description" : "现场复盘",
+  "descriptionHtml" : "<p>现场复盘</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "commen.work_bill_details"
+  }, {
+    "name" : "suite",
+    "value" : "test_work_details_recover"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-DHV6DED"
+  }, {
+    "name" : "thread",
+    "value" : "60364-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "commen.work_bill_details.test_work_details_recover"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "efee5c3ef996b170.json",
+  "parameterValues" : [ ]
+}

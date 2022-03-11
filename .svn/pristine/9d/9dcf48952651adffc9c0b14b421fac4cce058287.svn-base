@@ -1,0 +1,51 @@
+{
+  "uid" : "61f30a0c463975c3",
+  "name" : "test_extra_url",
+  "fullName" : "commen.workaire_manger.test_eidtor_workaire#test_extra_url",
+  "historyId" : "d66726dac31dedd9d9e453209f86839e",
+  "time" : {
+    "start" : 1630470250013,
+    "stop" : 1630470250298,
+    "duration" : 285
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "commen.workaire_manger"
+  }, {
+    "name" : "suite",
+    "value" : "test_eidtor_workaire"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-DHV6DED"
+  }, {
+    "name" : "thread",
+    "value" : "49652-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "commen.workaire_manger.test_eidtor_workaire"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "61f30a0c463975c3.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,100 @@
+{
+  "uid" : "d2e4598e5a38fde8",
+  "name" : "test_eidtor_infor_with_devicess",
+  "fullName" : "commen.device_manger.test_eidtor_infor_device.eidtor_infor_device_test#test_eidtor_infor_with_devicess",
+  "historyId" : "4eaf38f2b3d4afdb7a6bd633e4e4b69e",
+  "time" : {
+    "start" : 1630480113071,
+    "stop" : 1630480113149,
+    "duration" : 78
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "unittest_setUpClass_fixture_eidtor_infor_device_test",
+    "time" : {
+      "start" : 1630480113071,
+      "stop" : 1630480113071,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "563d26f1378818b6",
+      "name" : "stdout",
+      "source" : "563d26f1378818b6.txt",
+      "type" : "text/plain",
+      "size" : 15
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ {
+    "name" : "unittest_setUpClass_fixture_eidtor_infor_device_test::0",
+    "time" : {
+      "start" : 1630480113149,
+      "stop" : 1630480113149,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "commen.device_manger"
+  }, {
+    "name" : "suite",
+    "value" : "test_eidtor_infor_device"
+  }, {
+    "name" : "subSuite",
+    "value" : "eidtor_infor_device_test"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-DHV6DED"
+  }, {
+    "name" : "thread",
+    "value" : "243308-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "commen.device_manger.test_eidtor_infor_device"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d2e4598e5a38fde8.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,53 @@
+{
+  "uid" : "6100ce4e15212793",
+  "name" : "test_resouce_by_sercher",
+  "fullName" : "commen.resouce_type_manger.test_sercher_resouceinfor#test_resouce_by_sercher",
+  "historyId" : "79a3367f9592b0189b1f8868e6bfb24a",
+  "time" : {
+    "start" : 1630492375783,
+    "stop" : 1630492375840,
+    "duration" : 57
+  },
+  "description" : "搜索物料信息",
+  "descriptionHtml" : "<p>搜索物料信息</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "commen.resouce_type_manger"
+  }, {
+    "name" : "suite",
+    "value" : "test_sercher_resouceinfor"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-DHV6DED"
+  }, {
+    "name" : "thread",
+    "value" : "60364-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "commen.resouce_type_manger.test_sercher_resouceinfor"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6100ce4e15212793.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,51 @@
+{
+  "uid" : "8ccdf77080a50822",
+  "name" : "test_sercher_warehouse",
+  "fullName" : "commen.warehouse_anger.test_sercher_warehoseinfor#test_sercher_warehouse",
+  "historyId" : "0229016cfd886547c204ee7464905612",
+  "time" : {
+    "start" : 1630492376156,
+    "stop" : 1630492376205,
+    "duration" : 49
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "commen.warehouse_anger"
+  }, {
+    "name" : "suite",
+    "value" : "test_sercher_warehoseinfor"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-DHV6DED"
+  }, {
+    "name" : "thread",
+    "value" : "60364-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "commen.warehouse_anger.test_sercher_warehoseinfor"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8ccdf77080a50822.json",
+  "parameterValues" : [ ]
+}

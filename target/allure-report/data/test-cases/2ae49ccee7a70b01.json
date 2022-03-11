@@ -1,0 +1,53 @@
+{
+  "uid" : "2ae49ccee7a70b01",
+  "name" : "test_editor_tool_infor",
+  "fullName" : "commen.tools_typy_manger.test_editor_toolinfor#test_editor_tool_infor",
+  "historyId" : "d42ad1391ef67e503f9ebb2faf7dfb7c",
+  "time" : {
+    "start" : 1630492375911,
+    "stop" : 1630492375965,
+    "duration" : 54
+  },
+  "description" : "编辑工具信息",
+  "descriptionHtml" : "<p>编辑工具信息</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "commen.tools_typy_manger"
+  }, {
+    "name" : "suite",
+    "value" : "test_editor_toolinfor"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-DHV6DED"
+  }, {
+    "name" : "thread",
+    "value" : "60364-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "commen.tools_typy_manger.test_editor_toolinfor"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2ae49ccee7a70b01.json",
+  "parameterValues" : [ ]
+}

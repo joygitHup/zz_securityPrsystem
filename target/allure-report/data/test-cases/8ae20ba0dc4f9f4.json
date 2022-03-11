@@ -1,0 +1,51 @@
+{
+  "uid" : "8ae20ba0dc4f9f4",
+  "name" : "test_admin_manger_account_sercher",
+  "fullName" : "commen.admin_manger_account.test_admin_by_sercher#test_admin_manger_account_sercher",
+  "historyId" : "614103edc6147410b13b150136b62c30",
+  "time" : {
+    "start" : 1630492374021,
+    "stop" : 1630492374128,
+    "duration" : 107
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "commen.admin_manger_account"
+  }, {
+    "name" : "suite",
+    "value" : "test_admin_by_sercher"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-DHV6DED"
+  }, {
+    "name" : "thread",
+    "value" : "60364-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "commen.admin_manger_account.test_admin_by_sercher"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8ae20ba0dc4f9f4.json",
+  "parameterValues" : [ ]
+}
