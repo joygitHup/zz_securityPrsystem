@@ -37,7 +37,7 @@ if __name__=='__main__':
 # 1.文件的相对路径的处理 涉及到文件路径的地方 用函数表达
 # 3.jmter的集成
 # 4.脚本的调优
-#
+#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  gitup的登录token  joygitHup
  # 单一加载测试用例
     # test_suit = unittest.TestSuite()
     # test_suit.addTest(eidtor_infor_device_test('test_eidtor_infor_with_devicess'))
@@ -52,3 +52,14 @@ if __name__=='__main__':
     # runner.run(test_suit)
     # fb.close()
     # 将结果通过邮件发送到指定人
+
+    #git 提交代码流程
+    # 0. 在git中创建仓库
+    # 1.git init   在项目名称中
+    # 2.git add .   添加全部文件
+    # 3.git status  获取状态 添加进来后 为绿色
+    # git config --global user.email "you@example.com"
+    # git config --global user.name "Your Name"
+    # 4.git commit -m '描述'  提交添加进来的代码块 在这之前有可能还要登录
+    # 5.git remote add origin https://github.com/joygitHup/zz_securityPrsystem.git  连接到远程仓库(可以先连接)
+    # 6.git push -u origin master  推送代码到分支
